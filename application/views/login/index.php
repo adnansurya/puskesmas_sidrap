@@ -11,7 +11,7 @@
                         <div class="pt-4 px-5">
                             <div class="text-center">
                                 <h1 class="h4 text-gray-900 mb-1">Login</h1>
-                                <h6 class="text-gray-900">Puskesmas Sidrap</h6>
+                                <h6 class="text-gray-900">Puskesmas Tanrutedong</h6>
                             </div>
                         </div>
                     </div>
