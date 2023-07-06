@@ -97,6 +97,17 @@
 
                 <div class="row">
                     <div class="col-lg-12">
+                        <div class="pt-2 px-5">
+                        <div class="form-group">
+                                <label for="nik">NIK</label>
+                                <input required type="text" class="form-control form-control-user" id="nik" aria-describedby="nik_help" placeholder="Masukkan nik..">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-12">
                         <div class="pt-2 px-5 text-center">
                             <button class="form-control btn btn-primary" id="daftar">Daftar</button>
                         </div>
@@ -108,7 +119,7 @@
                         <div class="pt-1 pb-4 px-5">
                             <hr>
                             <div class="text-center">
-                                <a class="small" href="<?= base_url('lupa_password'); ?>">Lupa Password?</a>
+                                <a class="small" href="<?= base_url('forget_password'); ?>">Lupa Password?</a>
                             </div>
                             <div class="text-center">
                                 <a class="small" href="<?= base_url('staf'); ?>">Kembali ke halaman staf</a>

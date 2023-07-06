@@ -11,7 +11,7 @@
                         <div class="pt-4 px-5">
                             <div class="text-center">
                                 <h1 class="h4 text-gray-900 mb-1">Login</h1>
-                                <h6 class="text-gray-900">Puskesmas Tanrutedong</h6>
+                                <h6 class="text-gray-900">Puskesmas Sidrap</h6>
                             </div>
                         </div>
                     </div>
@@ -38,7 +38,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="pt-2 px-5 text-center">
-                            <button class="form-control btn btn-primary" id="login">Login</button>
+                            <button class="form-control btn btn-primary" id="kirim">Kirim</button>
                         </div>
                     </div>
                 </div>
@@ -48,7 +48,7 @@
                         <div class="pt-1 pb-4 px-5">
                             <hr>
                             <div class="text-center">
-                                <a class="small" href="<?= base_url('forget_password'); ?>">Lupa Password?</a>
+                                <a class="small" href="<?= base_url('login'); ?>">Sudah punya akun?</a>
                             </div>
                         </div>
                     </div>
