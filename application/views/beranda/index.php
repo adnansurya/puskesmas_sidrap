@@ -33,7 +33,7 @@
 <div class="row jumbotron m-0">
     <div class="d-flex justify-content-center align-items-center">
         <div class="col-lg-6">
-            <h1 class="text-white">Selamat Datang di Website Puskesmas Sidrap</h1>
+            <h1 class="text-white">Selamat Datang di Website Puskesmas Tanrutedong</h1>
             <p class="text-white text-center mt-5">Website ini merupakan sebuah implementasi dari sistem digitalisasi puskesmas kawasan Sidrap (Sidenreng Rappang). Dengan adanya website ini, diharapkan sistem kerja di puskesmas dapat terleksana dengan lebih baik, cepat dan efisien.</p>
             <button type="button" class="btn btn-info mt-5 w-100 p-3 text-white" id="lihat_layanan">Lihat Layanan</button>
         </div>
@@ -97,7 +97,7 @@
         </div>
         <p class="text-light"></p>
     </div>
-    <div class="col-sm-12 text-light text-center p-5">Copyright 2023 Tim Pengembang Aplikasi Website Puskesmas Sidrap</div>
+    <div class="col-sm-12 text-light text-center p-5">Copyright 2023 Tim Pengembang Aplikasi Website Puskesmas Tanrutedong</div>
 </footer>
 
 </body>

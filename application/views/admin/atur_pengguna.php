@@ -8,15 +8,12 @@
 
 <div class="row">
     <div class="col-md-6 my-3">
-        <button type="button" class="btn btn-success" id="tambah_pasien">
-            Tambah Pasien
+        <button type="button" class="btn btn-danger" id="kembali_ke_admin">
+            <i class="fa-solid fa-chevron-left"></i>
         </button>
-        <!-- <button type="button" class="btn btn-warning text-white" id="atur_pengguna">
-            Atur Pengguna
-        </button> -->
-        <!-- <button type="button" class="btn btn-primary" id="ambil_antrian">
-            Ambil Antrian
-        </button> -->
+        <button type="button" class="btn btn-success" id="tambah_pengguna">
+            <i class="fa-solid fa-plus"></i>
+        </button>
     </div>
 </div>
 
@@ -26,9 +23,10 @@
         <table id="myTable" class="display table">
             <thead>
                 <tr>
-                    <th>No Kartu</th>
-                    <th>NIK</th>
-                    <th>Nama Pasien</th>
+                    <th>Nama</th>
+                    <th>Email</th>
+                    <th>No Hp</th>
+                    <th>Role</th>
                     <th>Aksi</th>
                 </tr>
             </thead>
